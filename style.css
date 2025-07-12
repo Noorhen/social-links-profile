@@ -1,0 +1,172 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    width: 1440px;
+    position: relative;
+}
+
+.Jess {
+
+    background-color: hsl(0, 0%, 12%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 343px;
+    height: 592px;
+    position: relative;
+    margin-left: 582px;
+    margin-top: 51px;
+
+}
+.Randall{
+    font-weight: bold;   
+    font-family: 'Inter';
+    color: hsl(0, 0%, 100%);
+    font-family: Inter;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: -288px;
+}
+.london {
+    color: hsl(75, 94%, 57%);
+    font-family: 'Inter';
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: -221px;
+    font-size: 16px;
+}
+
+.front {
+    font-family: 'Inter';
+    font-weight: bold;   
+    font-size: 14px;
+    color: hsl(0, 0%, 80%);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: -152px;
+}
+img {
+    border-radius: 100%;
+    margin-left: -6px;
+    margin-top: -419px;
+    width: 73px;
+    height: 73px;
+} 
+
+.github {
+    font-style: initial;
+    font-weight: bold;    
+    font-family: 'Inter';
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    width: 269px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: -12px;
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+}
+.github:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.mentor:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.linkedin:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.twitter:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+.instagram:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 20%);
+}
+
+.mentor {
+    font-style: initial;
+    font-weight: bold;    
+    font-family: 'Inter';
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    width: 269px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: 104px;
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+
+}
+.linkedin {
+    font-style: initial;
+    font-weight: bold;    
+    font-family: 'Inter';
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    width: 269px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: 222px;
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+}
+.twitter {
+    font-style: initial;
+    font-weight: bold;
+    font-family: 'Inter';
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    width: 269px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: 342px;
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+}
+.instagram {
+    font-style: initial;
+    font-weight: bold;
+    font-family: 'Inter';
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 20%);
+    color: hsl(0, 0%, 100%);
+    width: 269px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: absolute;
+    margin-top: 459px;
+    text-align: center;
+    display:table-cell;
+    vertical-align:middle;
+}
